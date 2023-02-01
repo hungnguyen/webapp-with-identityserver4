@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDServer", "IDServer\IDServer.csproj", "{CFC33F94-5A4A-4D86-BE61-2BE5189D5DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{721E8F37-5BEB-4004-A04A-B685BF3E13F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{0C3267AA-90A9-4A2C-A966-F8903F64E3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC33F94-5A4A-4D86-BE61-2BE5189D5DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC33F94-5A4A-4D86-BE61-2BE5189D5DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC33F94-5A4A-4D86-BE61-2BE5189D5DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC33F94-5A4A-4D86-BE61-2BE5189D5DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721E8F37-5BEB-4004-A04A-B685BF3E13F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721E8F37-5BEB-4004-A04A-B685BF3E13F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721E8F37-5BEB-4004-A04A-B685BF3E13F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721E8F37-5BEB-4004-A04A-B685BF3E13F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3267AA-90A9-4A2C-A966-F8903F64E3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3267AA-90A9-4A2C-A966-F8903F64E3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3267AA-90A9-4A2C-A966-F8903F64E3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3267AA-90A9-4A2C-A966-F8903F64E3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4943D59E-50F6-43EC-9CD6-2AB8B845DFF4}
+	EndGlobalSection
+EndGlobal
